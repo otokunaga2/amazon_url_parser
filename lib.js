@@ -22,9 +22,5 @@ function parseUrl(url){
 module.exports = {
 	parseUrl: function(s){
 		return parseUrl(s)
-	},
-	checkUrlFormat: function(s){
-		return checkUrlFormat(s);
-
 	}
 }
